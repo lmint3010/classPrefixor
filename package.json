@@ -1,0 +1,8 @@
+{
+  "name": "class-prefixor",
+  "version": "1.0.0",
+  "description": "Fastway to write prefix of CSS base-on BEM",
+  "main": "index.js",
+  "author": "Lmint - CyberSkill",
+  "license": "MIT"
+}
